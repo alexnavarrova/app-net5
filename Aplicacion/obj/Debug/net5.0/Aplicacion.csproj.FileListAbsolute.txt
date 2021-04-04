@@ -1,0 +1,17 @@
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Users\Alexander\source\repos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.pdb

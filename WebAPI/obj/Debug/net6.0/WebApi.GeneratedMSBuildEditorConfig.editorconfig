@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = WebApi
+build_property.RootNamespace = WebApi
+build_property.ProjectDir = c:\Users\Alexander\source\repos\ProyectoCore\WebApi\
+build_property.RazorLangVersion = 5.0
+build_property.MSBuildProjectDirectory = c:\Users\Alexander\source\repos\ProyectoCore\WebApi
+build_property.DesignTimeBuild = true
+build_property._RazorReferenceAssemblyTagHelpersOutputPath = c:\Users\Alexander\source\repos\ProyectoCore\WebApi\obj\Debug\net6.0\RazorTagHelper.refs.out.cache
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog =
