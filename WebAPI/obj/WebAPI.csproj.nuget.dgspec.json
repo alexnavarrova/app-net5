@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
     "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
@@ -197,6 +197,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.4, )"
@@ -303,14 +307,14 @@
         }
       }
     },
-    "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Alexander\\source\\repos\\ProyectoCore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

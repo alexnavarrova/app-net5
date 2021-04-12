@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using MediatR;
-using Dominio;
 using Aplicacion.Cursos;
 
 namespace WebAPI.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
+   
     //[Authorize]
     public class CursosController : MiControllerBase
     {
